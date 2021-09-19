@@ -1,0 +1,8 @@
+{
+    "errors": [
+        {
+            "code": "EEF0602",
+            "message": "Invalid id token signature"
+        }
+    ]
+}
